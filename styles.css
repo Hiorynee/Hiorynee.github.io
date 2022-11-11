@@ -65,7 +65,7 @@
 }
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background-color: #000000;
     height: 100vh;
     background-size: cover;
     background-attachment: fixed;
