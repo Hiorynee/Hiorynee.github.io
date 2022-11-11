@@ -156,21 +156,6 @@ section .title::after{
 .about .about-content .left{
     width: 45%;
 }
-.about .about-content .left .img{
-    width: 15rem;
-    height: 15rem;
-    background-color: #12B456;
-    object-fit: cover;
-    border-radius: 50%;
-}
-.about .about-content .left img{
-    position: absolute;
-    width: 15rem;
-    height: 15rem;
-    object-fit: cover;
-    border-radius: 50%;
-    transform: rotate(-70deg);
-}
 .about .about-content .right{
     width: 55%;
 }
